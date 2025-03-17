@@ -11,9 +11,9 @@
 ## 💻 Plugins included:
 > [!NOTE]
 > [My Equicord Fork](https://github.com/stealtech/Equicord)
-- [tokenLoginManager](https://github.com/stealtech/EquicordPlugins/blob/main/tokenLogin) - Creates a new area in settings where you can manage account tokens for whatever reason you neded
+- [Token Login Manager](https://github.com/stealtech/EquicordPlugins/blob/main/tokenLogin) - Creates a new area in settings where you can manage account tokens for whatever reason you neded
 
-- [passwordManager](https://github.com/stealtech/EquicordPlugins/blob/main/passwordManager) - Adds a password manager to discord along with 2FA compatiability
+- [Password Manager](https://github.com/stealtech/EquicordPlugins/blob/main/passwordManager) - Adds a password manager to discord along with 2FA compatiability
 
 
 ## ❔ How to install third party plugins?
